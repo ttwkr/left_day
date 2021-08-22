@@ -30,7 +30,8 @@ const App = () => {
                 count++
             }
         }
-
+        
+        // 지라 테스트
         let left_days = diff - count
         setLeftday(left_days)
     }
